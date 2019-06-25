@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="162.65039mm"
+   height="94.95787mm"
+   viewBox="0 0 162.65039 94.95787"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="drivers.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="DiamondS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1326"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1324"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#e6e6e6;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1128"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DiamondS"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.2)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#e6e6e6;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         id="path1126"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DiamondS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DiamondS"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path915"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#e6e6e6;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="127.74422"
+     inkscape:cy="162.3829"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:object-nodes="false"
+     inkscape:window-width="1319"
+     inkscape:window-height="713"
+     inkscape:window-x="47"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-29.551755,-28.641925)">
+    <g
+       id="g2000">
+      <path
+         inkscape:transform-center-x="5.2838916e-06"
+         inkscape:transform-center-y="-13.31106"
+         d="m 90.255472,73.077258 -40.821751,0 20.410876,-35.352673 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="1.5707963"
+         sodipodi:arg1="0.52359878"
+         sodipodi:r2="11.784225"
+         sodipodi:r1="23.568449"
+         sodipodi:cy="61.293034"
+         sodipodi:cx="69.844597"
+         sodipodi:sides="3"
+         id="path817"
+         style="fill:none;fill-opacity:0.70196078;stroke:#ffff00;stroke-width:1.3279438;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.70196078"
+         sodipodi:type="star" />
+      <rect
+         y="66.089264"
+         x="66.998466"
+         height="35.135181"
+         width="35.135181"
+         id="rect819"
+         style="fill:none;fill-opacity:0.70196078;stroke:#ff0000;stroke-width:1.3279438;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.70196078" />
+      <path
+         inkscape:transform-center-x="-2.6761904e-06"
+         d="M 78.503838,72.432205 66.457489,93.297093 H 42.364792 L 30.318443,72.432205 42.364792,51.567317 l 24.092697,0 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52359878"
+         sodipodi:arg1="0"
+         sodipodi:r2="20.864885"
+         sodipodi:r1="24.092697"
+         sodipodi:cy="72.432205"
+         sodipodi:cx="54.41114"
+         sodipodi:sides="6"
+         id="path821"
+         style="fill:none;fill-opacity:0.70196078;stroke:#008000;stroke-width:1.3279438;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.70196078"
+         sodipodi:type="star" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path828"
+         d="M 70.615225,49.677439 96.00595,32.416665 h 25.3244"
+         style="fill:none;stroke:#e6e6e6;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DiamondS)" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path1118"
+         d="M 48.758927,87.979164 63.877975,121.99702 H 119.44048"
+         style="fill:none;stroke:#e6e6e6;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1128)" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1316"
+         d="M 96.00595,86.089285 H 119.0625"
+         style="fill:none;stroke:#e6e6e6;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1326)" />
+      <text
+         id="text1360"
+         y="32.794643"
+         x="125.11012"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan1362"
+           style="font-size:5.29166651px;line-height:0;fill:#e6e6e6;stroke:#e6e6e6;stroke-width:0.26458332"
+           y="32.794643"
+           x="125.11012"
+           sodipodi:role="line">Objectius d'aprenentatge</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.26458332"
+         x="123.59822"
+         y="87.223213"
+         id="text1368"><tspan
+           sodipodi:role="line"
+           x="123.59822"
+           y="87.223213"
+           style="font-size:5.29166651px;line-height:0;fill:#e6e6e6;stroke:#e6e6e6;stroke-width:0.26458332"
+           id="tspan1366">Producte a ser exposat</tspan></text>
+      <text
+         id="text1372"
+         y="122.1482"
+         x="123.59822"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan1370"
+           style="font-size:5.29166651px;line-height:0;fill:#e6e6e6;stroke:#e6e6e6;stroke-width:0.26458332"
+           y="122.1482"
+           x="123.59822"
+           sodipodi:role="line">El procés a seguir</tspan></text>
+    </g>
+  </g>
+</svg>
